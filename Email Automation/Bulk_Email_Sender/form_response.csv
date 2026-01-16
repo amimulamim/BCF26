@@ -1,0 +1,4 @@
+Timestamp,Email address,Team Name,Member 1 (Team Leader) Name,Member 1 Email,Member 2 Name,Member 2 Email,Member 3 Name,Member 3 mail,Send Now,Mail Sent,_to_email,_team
+28/11/2025 00:20:12,amimul.ehsan2001@gmail.com,team LOUHO,leader,mrtazwar23@gmail.com,Member 2,mrtazwar77@gmail.com,Member 3,2005020@ugrad.cse.buet.ac.bd,YES,2026-01-16T11:45:08+06:00 | <<202601160545.35241885532@smtp-relay.mailin.fr>>,amimul.ehsan2001@gmail.com,team LOUHO
+28/11/2025 00:20:12,2005017@ugrad.cse.buet.ac.bd,team Vibecoder,leader 2,mrtazwar77@gmail.com,Member 2 2,2005020@ugrad.cse.buet.ac.bd,Member 3 3,mrtazwar23@gmail.com,YES,2026-01-16T11:45:10+06:00 | <<202601160545.88175852346@smtp-relay.mailin.fr>>,2005017@ugrad.cse.buet.ac.bd,team Vibecoder
+28/11/2025 00:20:12,2005017@cse.buet.ac.bd,team 3,leader 3,2005020@ugrad.cse.buet.ac.bd,Member 2 3,mrtazwar77@gmail.com,,,YES,2026-01-16T11:45:12+06:00 | <<202601160545.63309465452@smtp-relay.mailin.fr>>,2005017@cse.buet.ac.bd,team 3
