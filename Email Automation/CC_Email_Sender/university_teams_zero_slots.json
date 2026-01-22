@@ -1,0 +1,674 @@
+[
+  {
+    "university": "Asian University of Bangladesh",
+    "coach_emails": [
+      "hasana@aub.ac.bd",
+      "kmtahsin056@gmail.com"
+    ],
+    "team_count": 2,
+    "teams": [
+      {
+        "team_name": "AUB_T2A",
+        "coach_email": "hasana@aub.ac.bd"
+      },
+      {
+        "team_name": "AUB_TripleS",
+        "coach_email": "kmtahsin056@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "BGC Trust University Bangladesh",
+    "coach_emails": [
+      "asaduzzaman@bgctub.ac.bd"
+    ],
+    "team_count": 4,
+    "teams": [
+      {
+        "team_name": "BGC_Team_Dim",
+        "coach_email": "asaduzzaman@bgctub.ac.bd"
+      },
+      {
+        "team_name": "Avengers_Squad",
+        "coach_email": "asaduzzaman@bgctub.ac.bd"
+      },
+      {
+        "team_name": "BGC_Cockroaches",
+        "coach_email": "asaduzzaman@bgctub.ac.bd"
+      },
+      {
+        "team_name": "Bitstrome ",
+        "coach_email": "asaduzzaman@bgctub.ac.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "BGIFT Institute Of Science And Technology",
+    "coach_emails": [
+      "robiul.islamapece1691@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "BIST",
+        "coach_email": "robiul.islamapece1691@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "BUET",
+    "coach_emails": [
+      "amsrumi@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "T_O_T",
+        "coach_email": "amsrumi@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Bangladesh Agricultural University",
+    "coach_emails": [
+      "sakhawat.csm@bau.edu.bd"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "BAU_BiE_StrayCoders",
+        "coach_email": "sakhawat.csm@bau.edu.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Bangladesh Open University",
+    "coach_emails": [
+      "mahmudulhasan@bou.ac.bd"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "unBOUnd",
+        "coach_email": "mahmudulhasan@bou.ac.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Brahmanbaria Polytechnic Institute",
+    "coach_emails": [
+      "marufur38@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "Logic_Lords",
+        "coach_email": "marufur38@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "CCN University of Science & Technology",
+    "coach_emails": [
+      "rabiol.amin@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "3_Aliens_From_Space",
+        "coach_email": "rabiol.amin@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Chandpur Science and Technology University",
+    "coach_emails": [
+      "mujahid@cse.cstu.ac.bd",
+      "nazim.ict.cstu@gmail.com",
+      "nazim@ict.cstu.ac.bd",
+      "prince@cse.cstu.ac.bd"
+    ],
+    "team_count": 5,
+    "teams": [
+      {
+        "team_name": "CSTU_Three_Musketeers",
+        "coach_email": "nazim@ict.cstu.ac.bd"
+      },
+      {
+        "team_name": "CSTU_DhuliKona",
+        "coach_email": "prince@cse.cstu.ac.bd"
+      },
+      {
+        "team_name": "OUR_CP_TEAM",
+        "coach_email": "prince@cse.cstu.ac.bd"
+      },
+      {
+        "team_name": "CSTU_UJANI-FulChua",
+        "coach_email": "nazim.ict.cstu@gmail.com"
+      },
+      {
+        "team_name": "CSTU_Bug_of_Thrones",
+        "coach_email": "mujahid@cse.cstu.ac.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "DHAKA CITY COLLEGE",
+    "coach_emails": [
+      "arifulhyder@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "DCC_WA404",
+        "coach_email": "arifulhyder@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Faridpur Engineering College",
+    "coach_emails": [
+      "shamsul.cse@fec.ac.bd"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "FEC_Ulta_Ulti",
+        "coach_email": "shamsul.cse@fec.ac.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "IOI",
+    "coach_emails": [
+      "sohel.kcl@gmail.com"
+    ],
+    "team_count": 2,
+    "teams": [
+      {
+        "team_name": "IOI1",
+        "coach_email": "sohel.kcl@gmail.com"
+      },
+      {
+        "team_name": "IOI2",
+        "coach_email": "sohel.kcl@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Institute of Science Trade and Technology.",
+    "coach_emails": [
+      "tanjilsharif_cse@istt.edu.bd"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "ISTT_CoduKathi",
+        "coach_email": "tanjilsharif_cse@istt.edu.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "International Islami University of Science and Technology Bangladesh",
+    "coach_emails": [
+      "julkernayeemt72@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "IIUSTB_Zerobug",
+        "coach_email": "julkernayeemt72@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Jamalpur Science & Technology University",
+    "coach_emails": [
+      "hasancse.cuet13@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "Undefined_Behaviour",
+        "coach_email": "hasancse.cuet13@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Khwaja Yunus Ali University",
+    "coach_emails": [
+      "rahat.cse@kyau.edu.bd"
+    ],
+    "team_count": 2,
+    "teams": [
+      {
+        "team_name": "KYAU_LastRunForMemories",
+        "coach_email": "rahat.cse@kyau.edu.bd"
+      },
+      {
+        "team_name": "KYAU Parrots ",
+        "coach_email": "rahat.cse@kyau.edu.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Manarat International University",
+    "coach_emails": [
+      "jahurulhaque@manarat.ac.bd"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "MIU_Noobs",
+        "coach_email": "jahurulhaque@manarat.ac.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Mohammadpur Government College",
+    "coach_emails": [
+      "farhanchakder@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "Stack Breakers",
+        "coach_email": "farhanchakder@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Mymensingh Engineering College",
+    "coach_emails": [
+      "roufmsc@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "MEC_D'Coders",
+        "coach_email": "roufmsc@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "NSTU",
+    "coach_emails": [
+      "mohiuddin.nstu@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "Alpha-k",
+        "coach_email": "mohiuddin.nstu@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "National Institute of Textile Engineering and Research",
+    "coach_emails": [
+      "jtasnim@niter.edu.bd",
+      "tanvir@niter.edu.bd"
+    ],
+    "team_count": 2,
+    "teams": [
+      {
+        "team_name": "FRENCH FRIES",
+        "coach_email": "jtasnim@niter.edu.bd"
+      },
+      {
+        "team_name": "NITER_3D_ARRAY",
+        "coach_email": "tanvir@niter.edu.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "National University, Bangladesh",
+    "coach_emails": [
+      "marufmithon09@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "Triple_Byte_Queens",
+        "coach_email": "marufmithon09@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Northern University Bangladesh",
+    "coach_emails": [
+      "parvejmia9@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "Segment_Fault ",
+        "coach_email": "parvejmia9@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Notre Dame University Bangladesh",
+    "coach_emails": [
+      "nafisa@ndub.edu.bd"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "NDUB_missing_semicolon",
+        "coach_email": "nafisa@ndub.edu.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Pabna Engineering College",
+    "coach_emails": [
+      "amnoor.pec@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "PEC_Supremacy ",
+        "coach_email": "amnoor.pec@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Pabna University of Science and Technology",
+    "coach_emails": [
+      "shahincseru@gmail.com"
+    ],
+    "team_count": 2,
+    "teams": [
+      {
+        "team_name": "PUST_HiddenTestVictims",
+        "coach_email": "shahincseru@gmail.com"
+      },
+      {
+        "team_name": "404_Not_Found",
+        "coach_email": "shahincseru@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Pabna University of Science and Technology, Pabna",
+    "coach_emails": [
+      "shahincseru@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "Pust_Knight_Riders",
+        "coach_email": "shahincseru@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Port City International University",
+    "coach_emails": [
+      "ratulbarua.cse@gmail.com",
+      "tanvinursiam@gmail.com",
+      "zarinrafahpciu@gmail.com"
+    ],
+    "team_count": 4,
+    "teams": [
+      {
+        "team_name": "PCIU_CodeLingPong",
+        "coach_email": "ratulbarua.cse@gmail.com"
+      },
+      {
+        "team_name": "PCIU_Greedy_Crew",
+        "coach_email": "zarinrafahpciu@gmail.com"
+      },
+      {
+        "team_name": "PCIU_CodeFrenzy",
+        "coach_email": "ratulbarua.cse@gmail.com"
+      },
+      {
+        "team_name": "PCIU_Crow",
+        "coach_email": "tanvinursiam@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Rangpur Polytechnic Insitute, Rangpur",
+    "coach_emails": [
+      "shohelranacmtrpi@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "RPI_Dreamers",
+        "coach_email": "shohelranacmtrpi@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Rawshan Ara Prodan",
+    "coach_emails": [
+      "heavenfood92@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "DIU_ORA",
+        "coach_email": "heavenfood92@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Shanto Mariam University of Creative Technology",
+    "coach_emails": [
+      "sakhor@smuct.ac.bd"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "SMUCT_BITBYBIT",
+        "coach_email": "sakhor@smuct.ac.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Shanto-Mariam University of Creative Technology",
+    "coach_emails": [
+      "sakhor@smuct.ac.bd"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "SMUCT_BuktaFaittaJay",
+        "coach_email": "sakhor@smuct.ac.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Sonargaon University",
+    "coach_emails": [
+      "shamim.ice.iu@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "SU_wrong_answer__bar_bar",
+        "coach_email": "shamim.ice.iu@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Sylhet International University",
+    "coach_emails": [
+      "kafi.cse@siu.edu.bd"
+    ],
+    "team_count": 3,
+    "teams": [
+      {
+        "team_name": "SIU_Cyber_Knights",
+        "coach_email": "kafi.cse@siu.edu.bd"
+      },
+      {
+        "team_name": "SIU_Dark_Algorithms",
+        "coach_email": "kafi.cse@siu.edu.bd"
+      },
+      {
+        "team_name": "SIU_Frontier ",
+        "coach_email": "kafi.cse@siu.edu.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Tejgaon College, Dhaka",
+    "coach_emails": [
+      "moklesur.cse.ru@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "TC_Phoenix",
+        "coach_email": "moklesur.cse.ru@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "University Of Scholars",
+    "coach_emails": [
+      "Mahbub@ius.edu.bd",
+      "mahbub@ius.edu.bd"
+    ],
+    "team_count": 4,
+    "teams": [
+      {
+        "team_name": "Runtime_Rebels",
+        "coach_email": "Mahbub@ius.edu.bd"
+      },
+      {
+        "team_name": "IUS_Algo_Blancos",
+        "coach_email": "mahbub@ius.edu.bd"
+      },
+      {
+        "team_name": "Group 7",
+        "coach_email": "mahbub@ius.edu.bd"
+      },
+      {
+        "team_name": "Pragmatic_Programmer",
+        "coach_email": "Mahbub@ius.edu.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "University of Frontier Technology, Bangladesh",
+    "coach_emails": [
+      "aditya0001@uftb.ac.bd",
+      "mahmodul0001@uftb.ac.bd"
+    ],
+    "team_count": 2,
+    "teams": [
+      {
+        "team_name": "UFTB_BitsBlitz",
+        "coach_email": "aditya0001@uftb.ac.bd"
+      },
+      {
+        "team_name": "ICE Cortex ",
+        "coach_email": "mahmodul0001@uftb.ac.bd"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "University of Liberal Arts Bangladesh",
+    "coach_emails": [
+      "fjrabbi.stu@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "Ekta_Kichu",
+        "coach_email": "fjrabbi.stu@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "University of Science and Technology Chittagong",
+    "coach_emails": [
+      "asikul@maildrop.cc",
+      "nowshin@ustc.ac.bd"
+    ],
+    "team_count": 2,
+    "teams": [
+      {
+        "team_name": "USTC_Sentinels",
+        "coach_email": "nowshin@ustc.ac.bd"
+      },
+      {
+        "team_name": "404 Not Found ",
+        "coach_email": "asikul@maildrop.cc"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "Z.H. Sikder University of Science & Technology",
+    "coach_emails": [
+      "rafiulislamrafi77@gmail.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "ZHSUST_Orions",
+        "coach_email": "rafiulislamrafi77@gmail.com"
+      }
+    ],
+    "allocated_slots": 0
+  },
+  {
+    "university": "gggg",
+    "coach_emails": [
+      "cc@ddd.com"
+    ],
+    "team_count": 1,
+    "teams": [
+      {
+        "team_name": "nnnn",
+        "coach_email": "cc@ddd.com"
+      }
+    ],
+    "allocated_slots": 0
+  }
+]

@@ -28,14 +28,14 @@ REPLY_TO_NAME = "IUPC Team"
 # ========================================
 # EMAIL CONTENT
 # ========================================
-SUBJECT = "BUET CSE Fest 2026 – Testing CC Feature"
+SUBJECT = "BUET IUPC 2026 – Slot Allocation Update"
 
 # Email body template
 # Available variables: {recipient_name}, {team}, {message}, {reply_team}, {contact_email}
 BODY_TEXT_TEMPLATE = """\
 Hello {recipient_name},
 
-This is an important update from BUET CSE Fest 2026.
+This is an important update from BUET IUPC 2026.
 
 {message}
 
