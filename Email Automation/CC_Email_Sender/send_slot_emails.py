@@ -134,9 +134,10 @@ def send_email(api_instance, university_data, test_mode=False):
     
     # Prepare recipients
     if test_mode:
-        # In test mode, send only to the test email but show university info
+        # In test mode, send to test email as primary, but CC all actual coaches
         to_recipients = [{"email": config.TEST_TO, "name": f"Test - {university}"}]
-        print(f"\n🧪 TEST MODE: Sending email for {university} to {config.TEST_TO}")
+        print(f"\n🧪 TEST MODE: Sending email for {university}")
+        print(f"   Test recipient: {config.TEST_TO}")
     else:
         # First coach is primary recipient
         to_recipients = [{"email": coach_emails[0]}]
@@ -145,7 +146,13 @@ def send_email(api_instance, university_data, test_mode=False):
     
     # Rest are CC'd
     cc_recipients = []
-    if not test_mode and len(coach_emails) > 1:
+    if test_mode:
+        # In test mode, CC all actual coach emails
+        if len(coach_emails) > 0:
+            cc_recipients = [{"email": email} for email in coach_emails]
+            print(f"   CC (actual coaches): {', '.join(coach_emails)}")
+    elif len(coach_emails) > 1:
+        # In production, CC coaches after the first one
         cc_recipients = [{"email": email} for email in coach_emails[1:]]
         print(f"   CC: {', '.join(coach_emails[1:])}")
     

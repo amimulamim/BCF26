@@ -47,7 +47,7 @@ We are pleased to inform you that {university} has been allocated {allocated_slo
 
 📊 SLOT ALLOCATION OVERVIEW:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Slot allocation has been determined based on performance in previous contests and other relevant factors. Please note that the cheater list from the last ICPC Preliminary was taken into serious consideration.
+Slot allocation has been determined based on performance in previous contests and other relevant factors. Academic integrity concerns from the last ICPC Preliminary were carefully reviewed and considered in the allocation process.
 
 Complete Slot Allocation PDF:
 https://drive.google.com/file/d/1p8X3QLlnyqvJumvuiCJgRtLSKxtiva7h/view?usp=sharing
@@ -56,13 +56,15 @@ Your university registered a total of {team_count} team(s):
 {team_list}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ FINAL REGISTRATION STEPS (MUST FOLLOW)
+✅ INSTRUCTIONS FOR YOUR TEAMS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Please share the following instructions with your teams:
 
 STEP 1: Confirm Team Selection
 Please confirm which {allocated_slots} team(s) from your university will participate in the final round.
 
-STEP 2: Pay Registration Fee (EACH TEAM SEPARATELY)
+STEP 2: Instruct Teams to Pay Registration Fee (EACH TEAM SEPARATELY)
 💳 Amount per team: {per_team_amount} BDT
 📱 bKash number: {bkash_account}
 {account_holder_info}
@@ -71,28 +73,28 @@ STEP 2: Pay Registration Fee (EACH TEAM SEPARATELY)
    • Each team sends {per_team_amount} BDT individually
    • Total expected: {allocated_slots} separate transactions = {total_amount} BDT
    
-✍️ IMPORTANT: During each bKash payment, the team MUST write their Team Name in the reference field.
+✍️ IMPORTANT: Instruct each team to write their Team Name in the bKash reference field during payment.
 🧾 Each team must save their Transaction ID (TrxID) - it is mandatory for the next step.
 
-⚠️ DO NOT send money to any other number. Only use the bKash number mentioned above.
+⚠️ WARNING: Teams should NOT send money to any other number. Only the bKash number mentioned above.
 
-STEP 3: Submit Team Information Form (EACH TEAM SEPARATELY)
-After completing the payment, EACH team must fill out the Team Information Form separately:
+STEP 3: Instruct Teams to Submit Information Form (EACH TEAM SEPARATELY)
+After completing their payment, each team must fill out the Team Information Form separately:
 
 📝 Team Information Form:
 https://forms.gle/CNGLm7kC9gu5GicWA
 
 Required information (per team):
   • Transaction ID (TrxID) - unique for each team's payment
-  • Recipient Phone Number (bKash number you paid to)
-  • Team details (some universities may reform their teams)
+  • Recipient Phone Number (bKash number they paid to)
+  • Team details (you may reform your university teams if needed)
 
 ⚠️ NOTE: Each team must submit this form separately with their own transaction ID.
 
 ⏰ DEADLINE: 26 January 2026, 11:55 PM (for all teams)
 
-STEP 4: Verify Payment Acknowledgement
-After submitting the form, you can check the payment acknowledgement in our tracking sheet:
+STEP 4: Teams Can Verify Payment Acknowledgement
+After submitting the form, teams can check the payment acknowledgement in our tracking sheet:
 
 📄 Payment Acknowledgement Sheet:
 https://docs.google.com/spreadsheets/d/1QfdwR0fsvNdsGWkPC1OfhucjXlW1nYi40fUqtB6OTAw/edit?usp=sharing
@@ -154,10 +156,12 @@ BODY_HTML_TEMPLATE = """\
             
             <p>We are pleased to inform you that <strong style="color: #0066cc;">{university}</strong> has been allocated <strong style="color: #0066cc; font-size: 18px;">{allocated_slots} slot(s)</strong> for the final round of BUET IUPC 2026.</p>
             
+            <p><em>Please share the instructions below with your teams and coordinate their registration process.</em></p>
+            
             <div class="info-box">
                 <p><strong>📊 Slot Allocation Overview</strong></p>
-                <p>Slot allocation has been determined based on performance in previous contests and other relevant factors. Please note that the cheater list from the last ICPC Preliminary was taken into serious consideration.</p>
-                <p><a href="https://drive.google.com/file/d/1p8X3QLlnyqvJumvuiCJgRtLSKxtiva7h/view?usp=sharing" class="link-button">📄 View Complete Slot Allocation PDF</a></p>
+                <p>Slot allocation has been determined based on performance in previous contests and other relevant factors. Academic integrity concerns from the last ICPC Preliminary were carefully reviewed and considered in the allocation process.</p>
+                <p><a href="https://drive.google.com/file/d/1p8X3QLlnyqvJumvuiCJgRtLSKxtiva7h/view?usp=sharing" class="link-button" style="color: white;">📄 View Complete Slot Allocation PDF</a></p>
             </div>
             
             <div class="team-list">
@@ -165,15 +169,15 @@ BODY_HTML_TEMPLATE = """\
                 {team_list_html}
             </div>
             
-            <h2 style="color: #0066cc; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">✅ Final Registration Steps</h2>
+            <h2 style="color: #0066cc; border-bottom: 2px solid #0066cc; padding-bottom: 10px;">✅ Instructions for Your Teams</h2>
             
             <div class="step-box">
                 <h3>STEP 1: Confirm Team Selection</h3>
-                <p>Please confirm which <strong>{allocated_slots} team(s)</strong> from your university will participate in the final round.</p>
+                <p>Please confirm to us which <strong>{allocated_slots} team(s)</strong> from your university will participate in the final round.</p>
             </div>
             
             <div class="step-box">
-                <h3>STEP 2: Pay Registration Fee (EACH TEAM SEPARATELY)</h3>
+                <h3>STEP 2: Instruct Teams to Pay Registration Fee (EACH TEAM SEPARATELY)</h3>
                 <div class="payment-box">
                     <div class="payment-detail"><strong>💳 Amount per team:</strong> {per_team_amount} BDT</div>
                     <div class="payment-detail"><strong>📱 bKash number:</strong> <span style="font-size: 18px; color: #0066cc; font-weight: bold;">{bkash_account}</span></div>
@@ -182,24 +186,24 @@ BODY_HTML_TEMPLATE = """\
                 </div>
                 <div class="warning" style="background-color: #fff3cd; border-color: #ffc107; color: #856404;">
                     <strong>⚠️ CRITICAL:</strong> Each team must pay SEPARATELY. Do NOT combine payments.<br>
-                    • Each team sends {per_team_amount} BDT individually<br>
+                    • Instruct each team to send {per_team_amount} BDT individually<br>
                     • Each payment must have the team's name in reference field<br>
                     • Each team will have their own unique Transaction ID
                 </div>
                 <div class="warning">
-                    <strong>⚠️ WARNING:</strong> DO NOT send money to any other number. Only use the bKash number mentioned above.
+                    <strong>⚠️ WARNING:</strong> Teams should NOT send money to any other number. Only the bKash number mentioned above.
                 </div>
             </div>
             
             <div class="step-box">
-                <h3>STEP 3: Submit Team Information Form (EACH TEAM SEPARATELY)</h3>
-                <p>After completing the payment, <strong>EACH team must fill out the form separately</strong>:</p>
-                <p><a href="https://forms.gle/CNGLm7kC9gu5GicWA" class="link-button">📝 Fill Team Information Form</a></p>
+                <h3>STEP 3: Instruct Teams to Submit Information Form (EACH TEAM SEPARATELY)</h3>
+                <p>After completing their payment, <strong>each team must fill out the form separately</strong>:</p>
+                <p><a href="https://forms.gle/CNGLm7kC9gu5GicWA" class="link-button" style="color: white;">📝 Fill Team Information Form</a></p>
                 <p><strong>Required information (per team):</strong></p>
                 <ul>
                     <li>Transaction ID (TrxID) - <em>unique for each team's payment</em></li>
-                    <li>Recipient Phone Number (bKash number you paid to)</li>
-                    <li>Team details (some universities may reform their teams)</li>
+                    <li>Recipient Phone Number (bKash number they paid to)</li>
+                    <li>Team details (you may reform your teams if needed)</li>
                 </ul>
                 <div class="warning" style="background-color: #e7f3ff; border-color: #0066cc; color: #004085;">
                     <strong>📝 NOTE:</strong> Each team must submit this form separately with their own transaction ID.
@@ -211,9 +215,9 @@ BODY_HTML_TEMPLATE = """\
             </div>
             
             <div class="step-box">
-                <h3>STEP 4: Verify Payment Acknowledgement</h3>
-                <p>After submitting the form, you can check the payment acknowledgement in our tracking sheet:</p>
-                <p><a href="https://docs.google.com/spreadsheets/d/1QfdwR0fsvNdsGWkPC1OfhucjXlW1nYi40fUqtB6OTAw/edit?usp=sharing" class="link-button">📄 Check Payment Acknowledgement Sheet</a></p>
+                <h3>STEP 4: Teams Can Verify Payment Acknowledgement</h3>
+                <p>After submitting the form, teams can check the payment acknowledgement in our tracking sheet:</p>
+                <p><a href="https://docs.google.com/spreadsheets/d/1QfdwR0fsvNdsGWkPC1OfhucjXlW1nYi40fUqtB6OTAw/edit?usp=sharing" class="link-button" style="color: white;">📄 Check Payment Acknowledgement Sheet</a></p>
                 <p><em>⏳ Please note: It may take 1-2 days for the sheet to update after form submission.</em></p>
             </div>
             

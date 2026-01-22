@@ -3,12 +3,14 @@
     "university": "BUET",
     "coach_emails": [
       "amimul.ehsan2001@gmail.com",
-      "200517@ugrad.cse.buet.ac.bd",
+      "2005017@ugrad.cse.buet.ac.bd",
       "aaniksahaa.2001@gmail.com",
       "ayon21.official@gmail.com",
       "waseemmustakzisan@gmail.com",
       "waseemzisan@gmail.com",
-      "waseemmustak001@gmail.com"
+      "waseemmustak001@gmail.com",
+      "mosharrafshabab@gmail.com",
+      "ishrak.adit07@gmail.com"
     ],
     "team_count": 12,
     "teams": [
@@ -61,7 +63,7 @@
         "coach_email": "waseemmustak001@gmail.com"
       }
     ],
-    "allocated_slots": 12,
+    "allocated_slots": 8,
     "payment_info": {
       "bkash_account": "01867850970",
       "account_holder_name": "Test Account"
