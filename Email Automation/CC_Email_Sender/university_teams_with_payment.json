@@ -1,5 +1,73 @@
 [
   {
+    "university": "BUET",
+    "coach_emails": [
+      "amimul.ehsan2001@gmail.com",
+      "200517@ugrad.cse.buet.ac.bd",
+      "aaniksahaa.2001@gmail.com",
+      "ayon21.official@gmail.com",
+      "waseemmustakzisan@gmail.com",
+      "waseemzisan@gmail.com",
+      "waseemmustak001@gmail.com"
+    ],
+    "team_count": 12,
+    "teams": [
+      {
+        "team_name": "BUET_Alpha",
+        "coach_email": "amimul.ehsan2001@gmail.com"
+      },
+      {
+        "team_name": "BUET_Beta",
+        "coach_email": "amimul.ehsan2001@gmail.com"
+      },
+      {
+        "team_name": "BUET_Gamma",
+        "coach_email": "200517@ugrad.cse.buet.ac.bd"
+      },
+      {
+        "team_name": "BUET_Delta",
+        "coach_email": "200517@ugrad.cse.buet.ac.bd"
+      },
+      {
+        "team_name": "BUET_Epsilon",
+        "coach_email": "aaniksahaa.2001@gmail.com"
+      },
+      {
+        "team_name": "BUET_Zeta",
+        "coach_email": "aaniksahaa.2001@gmail.com"
+      },
+      {
+        "team_name": "BUET_Theta",
+        "coach_email": "ayon21.official@gmail.com"
+      },
+      {
+        "team_name": "BUET_Lambda",
+        "coach_email": "ayon21.official@gmail.com"
+      },
+      {
+        "team_name": "BUET_Sigma",
+        "coach_email": "waseemmustakzisan@gmail.com"
+      },
+      {
+        "team_name": "BUET_Omega",
+        "coach_email": "waseemzisan@gmail.com"
+      },
+      {
+        "team_name": "BUET_Phoenix",
+        "coach_email": "waseemmustak001@gmail.com"
+      },
+      {
+        "team_name": "BUET_Titan",
+        "coach_email": "waseemmustak001@gmail.com"
+      }
+    ],
+    "allocated_slots": 12,
+    "payment_info": {
+      "bkash_account": "01867850970",
+      "account_holder_name": "Test Account"
+    }
+  },
+  {
     "university": "AHSANULLAH UNIVERSITY OF SCIENCE AND TECHNOLOGY",
     "coach_emails": [
       "seum.cse@aust.edu"
