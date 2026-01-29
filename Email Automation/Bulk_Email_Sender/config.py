@@ -21,13 +21,13 @@ FROM_NAME = "BUET CSE Fest 2026"
 # ========================================
 # REPLY-TO INFORMATION (Change per event/campaign)
 # ========================================
-REPLY_TO_EMAIL = "ctf@buetcsefest2026.com"
-REPLY_TO_NAME = "CTF Team"
+REPLY_TO_EMAIL = "dlsprint@buetcsefest2026.com"
+REPLY_TO_NAME = "DL Sprint 4.0"
 
 # ========================================
 # EMAIL CONTENT
 # ========================================
-SUBJECT = "BUET CSE Fest 2026 – Update"
+SUBJECT = "BUET CSE Fest 2026 – DL Sprint 4.0 Update for {team}"
 
 # Email body template
 # Available variables: {team}, {message}, {reply_team}
