@@ -38,7 +38,7 @@ SECONDS_BETWEEN_EMAILS = 0.5
 # Competition links - UPDATE THESE
 KAGGLE_LINK_1 = "https://www.kaggle.com/competitions/COMPETITION_1"
 KAGGLE_LINK_2 = "https://www.kaggle.com/competitions/COMPETITION_2"
-RULEBOOK_LINK = "https://YOUR_RULEBOOK_LINK"
+RULEBOOK_LINK = "https://tinyurl.com/DLSprint4Rulebook"
 
 # Test team name
 TEST_TEAM_NAME = "Team_Test for Organizers"
