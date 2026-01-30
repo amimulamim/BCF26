@@ -7,6 +7,46 @@ Send bulk emails to teams/participants via Brevo. Simple, configurable, and trac
 - **`config.py`** - **Edit this file** to customize all email settings
 - **`send_bulk.py`** - Main sending script (no need to edit)
 - **`run.sh`** - Quick run script
+- **`process_new_responses.py`** - **Handle incremental form responses** (see below)
+- **`sent_teams.json`** - Tracks which teams have already been emailed
+
+---
+
+## 🔄 Handling New Google Form Responses
+
+When the Google Form keeps receiving responses:
+
+### Workflow
+
+1. **Download latest CSV** from Google Sheets (replace `*_new.csv`)
+
+2. **Check for new teams:**
+   ```bash
+   python process_new_responses.py --check
+   ```
+
+3. **Generate JSON for new teams only:**
+   ```bash
+   python process_new_responses.py --generate
+   ```
+   This creates `new_team_emails.json` with only unsent teams.
+
+4. **Send emails to new teams** (update `send_dlsprint_start.py` to use `new_team_emails.json`)
+
+5. **Mark as sent after emailing:**
+   ```bash
+   python process_new_responses.py --mark-sent
+   ```
+
+### Initial Setup (First Time)
+
+If you've already sent emails and want to start tracking:
+```bash
+# Mark all current teams as "already sent"
+python process_new_responses.py --mark-all
+```
+
+---
 
 ## ⚙️ Configuration
 

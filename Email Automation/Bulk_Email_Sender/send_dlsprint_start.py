@@ -36,15 +36,15 @@ REPLY_TO_NAME = "DL Sprint 4.0"
 SECONDS_BETWEEN_EMAILS = 0.5
 
 # Competition links - UPDATE THESE
-KAGGLE_LINK_1 = "https://www.kaggle.com/competitions/COMPETITION_1"
-KAGGLE_LINK_2 = "https://www.kaggle.com/competitions/COMPETITION_2"
+KAGGLE_LINK_1 = "https://www.kaggle.com/t/be8384727a28293dd012ee3ce5df9bac"
+KAGGLE_LINK_2 = "https://www.kaggle.com/t/fbf7ab57b50a41c59aae973a725b9a4f"
 RULEBOOK_LINK = "https://tinyurl.com/DLSprint4Rulebook"
 
 # Test team name
 TEST_TEAM_NAME = "Team_Test for Organizers"
 
 # Email subject
-SUBJECT = "🚀 DL Sprint 4.0 Online Round Has Started!! | BUET CSE Fest 2026"
+SUBJECT = " DL Sprint 4.0 Online Round is Live!! | BUET CSE Fest 2026"
 
 # Email body template (HTML)
 EMAIL_BODY = """\
@@ -54,23 +54,23 @@ EMAIL_BODY = """\
 
 <p>Greetings from BUET CSE Fest 2026!</p>
 
-<p>We are thrilled to announce that the <strong>DL Sprint 4.0 Online Round</strong> has officially started! 🎉</p>
+<p>We are thrilled to announce that the <strong>DL Sprint 4.0 Online Round</strong> has officially started! </p>
 
-<p>📅 <strong>Competition Duration:</strong> 20 Days</p>
+<p>📅 <strong>Competition Duration:</strong> 22 Days</p>
 
 <p>🔗 <strong>Kaggle Competition Links:</strong></p>
 <ul>
-  <li>Competition 1: <a href="{kaggle_link_1}">{kaggle_link_1}</a></li>
-  <li>Competition 2: <a href="{kaggle_link_2}">{kaggle_link_2}</a></li>
+  <li>Competition 1: <a href="https://www.kaggle.com/t/be8384727a28293dd012ee3ce5df9bac">https://www.kaggle.com/t/be8384727a28293dd012ee3ce5df9bac</a></li>
+  <li>Competition 2: <a href="https://www.kaggle.com/t/fbf7ab57b50a41c59aae973a725b9a4f">https://www.kaggle.com/t/fbf7ab57b50a41c59aae973a725b9a4f</a></li>
 </ul>
 
 <p>📖 <strong>Rulebook:</strong> <a href="{rulebook_link}">{rulebook_link}</a></p>
 
 <p>Please make sure to:</p>
 <ul>
-  <li>✅ Read the rulebook carefully before starting</li>
-  <li>✅ Join both Kaggle competitions using the links above</li>
-  <li>✅ Submit your solutions before the deadline</li>
+  <li> Read the rulebook carefully before starting</li>
+  <li> Join both Kaggle competitions using the links above</li>
+  <li> Submit your solutions before the deadline</li>
 </ul>
 
 <p>We wish you the best of luck! May the best models win! 🏆</p>

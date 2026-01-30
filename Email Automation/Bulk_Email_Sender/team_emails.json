@@ -1,148 +1,161 @@
-[
+[ {
+        "team_name": "Team_Test for Organizers",
+        "emails": [
+            "amimul.ehsan2001@gmail.com",
+            "riftirc96@gmail.com",
+            "shadmantabib2002@gmail.com",
+            "masnoon312@gmail.com",
+            "aaniksahaa.2001@gmail.com"
+
+        ]
+
+},
+
+    
     {
         "team_name": "DeathEaters",
         "emails": [
-            "akter.shahi@gmail.com",
-            "rifah2002bau@gmail.com",
             "lamisazahin2005@gmail.com",
+            "rifah2002bau@gmail.com",
+            "akter.shahi@gmail.com",
             "nishatshawrin2@gmail.com"
         ]
     },
     {
         "team_name": "SUST_HIRE",
         "emails": [
-            "r53775567@gmail.com",
+            "zinniafc@gmail.com",
             "istiaquebd71@gmail.com",
             "mhe63998@gmail.com",
-            "zinniafc@gmail.com"
+            "r53775567@gmail.com"
         ]
     },
     {
         "team_name": "DL_Survey_Corps",
         "emails": [
-            "arianadil892@gmail.com",
-            "enayet.cse.alvee2021@gmail.com",
             "saonchishty@gmail.com",
-            "pritu.dhar81@gmail.com"
+            "enayet.cse.alvee2021@gmail.com",
+            "pritu.dhar81@gmail.com",
+            "arianadil892@gmail.com"
         ]
     },
     {
         "team_name": "DL_crawl",
         "emails": [
-            "ahnaf.jamil52@gmail.com",
-            "sahaushno@gmail.com",
             "smafayeem420@gmail.com",
+            "sahaushno@gmail.com",
+            "ahnaf.jamil52@gmail.com",
             "swayam1428@gmail.com"
         ]
     },
     {
         "team_name": "Team_onceAgain",
         "emails": [
-            "zsaif2003@gmail.com",
-            "ibtida01.ahmed@gmail.com"
+            "ibtida01.ahmed@gmail.com",
+            "zsaif2003@gmail.com"
         ]
     },
     {
         "team_name": "BUET_ATTeNtion",
         "emails": [
-            "nawrizaturjo03@gmail.com",
-            "khalidtuhin3@gmail.com",
             "roy396139@gmail.com",
-            "robinglhs5@gmail.com"
+            "nawrizaturjo03@gmail.com",
+            "robinglhs5@gmail.com",
+            "khalidtuhin3@gmail.com"
         ]
     },
     {
         "team_name": "GPU_Nai_Vai",
         "emails": [
-            "sanimmuntasirmithun@gmail.com",
-            "shuvo2005rzs@gmail.com",
+            "mahdihc222@gmail.com",
             "akif289789@gmail.com",
-            "mahdihc222@gmail.com"
+            "sanimmuntasirmithun@gmail.com",
+            "shuvo2005rzs@gmail.com"
         ]
     },
     {
         "team_name": "BUET_kestrel_wings",
         "emails": [
+            "www.raihankabireusc@gmail.com",
             "l.sajed520@gmail.com",
-            "rafsan0670@gmail.com",
-            "www.raihankabireusc@gmail.com"
+            "rafsan0670@gmail.com"
         ]
     },
     {
         "team_name": "BUET_SDGs",
         "emails": [
-            "mdsium2004@gmail.com",
+            "tanvirmamun82@gmail.com",
             "irafsan2020@gmail.com",
             "abdullahsiham31602@gmail.com",
-            "tanvirmamun82@gmail.com"
+            "mdsium2004@gmail.com"
         ]
     },
     {
         "team_name": "HackFleet ",
         "emails": [
             "ahnaf.tahmid04@gmail.com",
-            "sdipit099@gmail.com",
+            "mahdithe8@gmail.com",
             "raihanrsd98@gmail.com",
-            "mahdithe8@gmail.com"
+            "sdipit099@gmail.com"
         ]
     },
     {
         "team_name": "Fellowship of the Ring",
         "emails": [
             "pritombiswas9999@gmail.com",
-            "pawmeowmanool@gmail.com",
             "tanjinulislam16@gmail.com",
+            "pawmeowmanool@gmail.com",
             "tafsiral21@gmail.com"
         ]
     },
     {
         "team_name": "BUET_OVERFIT",
         "emails": [
-            "zubayerkayes2002@gmail.com",
             "intisaruddin7009@gmail.com",
             "meherab.zahidhasan@gmail.com",
+            "zubayerkayes2002@gmail.com",
             "chowdhuryshashwoto@gmail.com"
         ]
     },
     {
         "team_name": "TeamDeEkta",
         "emails": [
-            "aliashraftanvir410@gmail.com",
-            "towheduzzaman@gmail.com"
+            "towheduzzaman@gmail.com",
+            "aliashraftanvir410@gmail.com"
         ]
     },
     {
         "team_name": "Nameless",
         "emails": [
-            "ntahseen03@gmail.com",
-            "sayjadrahman@gmail.com"
+            "sayjadrahman@gmail.com",
+            "ntahseen03@gmail.com"
         ]
     },
     {
         "team_name": "Edgerunners",
         "emails": [
+            "aldaiansaklain@gmail.com",
             "ramisaraidah@gmail.com",
             "rakibcdt1958@gmail.com",
-            "sanjanahassan527@gmail.com",
-            "aldaiansaklain@gmail.com"
+            "sanjanahassan527@gmail.com"
         ]
     },
     {
         "team_name": "auauauau",
         "emails": [
             "fuadalalam2004@gmail.com",
-            "tahmidkhan249@gmail.com",
+            "fahimfaiazadib@gmail.com",
             "niloystudent870@gmail.com",
-            "fahimfaiazadib@gmail.com"
+            "tahmidkhan249@gmail.com"
         ]
     },
     {
         "team_name": "FakeSubmission",
         "emails": [
-            "muhaiminulsadat@gmail.com",
             "nayeemj496@gmail.com",
             "kaiserali856@gmail.com",
-            "ahtashamulhaque20@gmail.com"
+            "ahtashamulhaque20@gmail.com",
+            "muhaiminulsadat@gmail.com"
         ]
     },
     {
@@ -177,17 +190,17 @@
     {
         "team_name": "RUET_Spartans",
         "emails": [
+            "takitamim.12@gmail.com",
             "eazdan.rafin@gmail.com",
-            "nahidniyaz185@gmail.com",
             "naimparvez999@gmail.com",
-            "takitamim.12@gmail.com"
+            "nahidniyaz185@gmail.com"
         ]
     },
     {
         "team_name": "3radient",
         "emails": [
-            "ni0936603@gmail.com",
             "hamim12109087@gmail.com",
+            "ni0936603@gmail.com",
             "shahriaralif619@gmail.com",
             "saikat12340@gmail.com"
         ]
@@ -195,36 +208,36 @@
     {
         "team_name": "OneMoreEpoch",
         "emails": [
+            "shahriar246d@gmail.com",
             "rafid.mostafiz04@gmail.com",
             "f.labib698@gmail.com",
-            "fatimasadsudipta@gmail.com",
-            "shahriar246d@gmail.com"
+            "fatimasadsudipta@gmail.com"
         ]
     },
     {
         "team_name": "ArektaGenericTeam",
         "emails": [
             "ashfaqulhasan9@gmail.com",
-            "ragibshahrier2004123@gmail.com",
             "inan2005abas@gmail.com",
-            "ahammadshawki8@gmail.com"
+            "ahammadshawki8@gmail.com",
+            "ragibshahrier2004123@gmail.com"
         ]
     },
     {
         "team_name": "Data Pirates",
         "emails": [
             "adibrahman44@gmail.com",
+            "nurenfahmid@iut-dhaka.edu",
             "sadmankhan334@gmail.com",
-            "ahnafpias@iut-dhaka.edu",
-            "nurenfahmid@iut-dhaka.edu"
+            "ahnafpias@iut-dhaka.edu"
         ]
     },
     {
         "team_name": "Otol_Unlearning ",
         "emails": [
-            "mratuhin2004@gmail.com",
             "mohammedalimuddin2004@gmail.com",
             "shahesteyislam999@gmail.com",
+            "mratuhin2004@gmail.com",
             "shuvodipsowmik@gmail.com"
         ]
     },
@@ -232,8 +245,8 @@
         "team_name": "Luck Is All You Need",
         "emails": [
             "rubaiyatzaman08@gmail.com",
-            "ashrafuzzamannafees08@gmail.com",
-            "2105083@ugrad.cse.buet.ac.bd"
+            "2105083@ugrad.cse.buet.ac.bd",
+            "ashrafuzzamannafees08@gmail.com"
         ]
     },
     {
@@ -245,28 +258,28 @@
     {
         "team_name": "gungang",
         "emails": [
+            "mdtahmidulislam102@gmail.com",
             "mufeed.talukder555@gmail.com",
-            "alshariaralif2004@gmail.com",
             "adityaroy.jpg@gmail.com",
-            "mdtahmidulislam102@gmail.com"
+            "alshariaralif2004@gmail.com"
         ]
     },
     {
         "team_name": "TeneT",
         "emails": [
-            "nafisnahian71@gmail.com",
+            "arnob3753@gmail.com",
             "tamzeedmahfuz2003@gmail.com",
             "aliasifkhan5@gmail.com",
-            "arnob3753@gmail.com"
+            "nafisnahian71@gmail.com"
         ]
     },
     {
         "team_name": "Release the Kraken",
         "emails": [
-            "fahadshanto653@gmail.com",
-            "sokarama79@gmail.com",
+            "rafidadib123@gmail.com",
             "niloysarker0033@gmail.com",
-            "rafidadib123@gmail.com"
+            "fahadshanto653@gmail.com",
+            "sokarama79@gmail.com"
         ]
     },
     {
@@ -287,25 +300,25 @@
     {
         "team_name": "Survey_Corps",
         "emails": [
-            "shadinarifulislam@gmail.com",
             "mustafamuhaimin30@gmail.com",
-            "mansib.cj@gmail.com",
-            "saidulanamsiam2003@gmail.com"
+            "shadinarifulislam@gmail.com",
+            "saidulanamsiam2003@gmail.com",
+            "mansib.cj@gmail.com"
         ]
     },
     {
         "team_name": "six_seven",
         "emails": [
             "afhamadian.03@gmail.com",
-            "supriopaul461@gmail.com",
-            "aorko321@gmail.om"
+            "aorko321@gmail.om",
+            "supriopaul461@gmail.com"
         ]
     },
     {
         "team_name": "SUST_Remontada",
         "emails": [
-            "bipulhf@gmail.com",
             "abhishek.cse4@gmail.com",
+            "bipulhf@gmail.com",
             "prosanto0das23@gmail.com",
             "barnali.cse59@gmail.com"
         ]
@@ -313,27 +326,27 @@
     {
         "team_name": "overfit_nd_chill",
         "emails": [
-            "mahbubulislam118@gmail.com",
             "tasnimul.eee@gmail.com",
-            "omenmain1981@gmail.com",
-            "nazmulibnhuda@gmail.com"
+            "nazmulibnhuda@gmail.com",
+            "mahbubulislam118@gmail.com",
+            "omenmain1981@gmail.com"
         ]
     },
     {
         "team_name": "SUST_wearegroot",
         "emails": [
-            "mdminhajul999@gmail.com",
             "tasnimfarzana2103@gmail.com",
             "mahi.mashfik@gmail.com",
+            "mdminhajul999@gmail.com",
             "neelimaaaaaa@gmail.com"
         ]
     },
     {
         "team_name": "intel",
         "emails": [
-            "ayon.mubashirtanveer21@gmail.com",
             "ishmam268@gmail.com",
             "farzinawsaf@gmail.com",
+            "ayon.mubashirtanveer21@gmail.com",
             "tmsajib901@gmail.com"
         ]
     },
@@ -347,10 +360,10 @@
     {
         "team_name": "Make America Great Again",
         "emails": [
-            "rhratul235@gmail.com",
-            "deehackin@gmail.com",
             "nazmulislam20303@gmail.com",
-            "mashukurmanik2552@gmail.com"
+            "mashukurmanik2552@gmail.com",
+            "rhratul235@gmail.com",
+            "deehackin@gmail.com"
         ]
     },
     {
@@ -364,43 +377,43 @@
         "team_name": "BUET_Go_Deeper",
         "emails": [
             "mosharaf.apurba57@gmail.com",
-            "jonayedmohiuddin@gmail.com",
             "nkm2105044@gmail.com",
+            "jonayedmohiuddin@gmail.com",
             "ahnafakibtanim@gmail.com"
         ]
     },
     {
         "team_name": "Can't_Inference",
         "emails": [
-            "abir13407@gmail.com",
-            "rudr4sh1vm@gmail.com",
             "samyopramanik2003@gmail.com",
-            "fiarian1234@gmail.com"
+            "rudr4sh1vm@gmail.com",
+            "fiarian1234@gmail.com",
+            "abir13407@gmail.com"
         ]
     },
     {
         "team_name": "CUET_TriNets",
         "emails": [
-            "farhanamin1200@gmail.com",
             "Tahfimjuwel@gmail.com",
+            "farhanamin1200@gmail.com",
             "u2004098@student.cuet.ac.bd"
         ]
     },
     {
         "team_name": "Base 0",
         "emails": [
-            "ananta.deb2005@gmail.com",
-            "wasiksamin24@gmail.com",
+            "rah.prithu2004@gmail.com",
             "abdusshakursifat1@gmail.com",
-            "rah.prithu2004@gmail.com"
+            "ananta.deb2005@gmail.com",
+            "wasiksamin24@gmail.com"
         ]
     },
     {
         "team_name": "ThisWasUnplanned",
         "emails": [
-            "mrimmoyee20@gmail.com",
+            "meftahul@iut-dhaka.edu",
             "shakibalhasan@iut-dhaka.edu",
-            "meftahul@iut-dhaka.edu"
+            "mrimmoyee20@gmail.com"
         ]
     },
     {
@@ -412,8 +425,8 @@
     {
         "team_name": "Natural Stupidity",
         "emails": [
-            "damnboi0236@gmail.com",
             "ahnafanam685@gmail.com",
+            "damnboi0236@gmail.com",
             "raiyun.mushfiq@gmail.com",
             "farhananjumwr@gmail.com"
         ]
@@ -428,78 +441,78 @@
     {
         "team_name": "Team ReActive",
         "emails": [
-            "wasic.alavi.sadmam@gmail.com",
-            "saadtahmid1890@gmail.com",
             "ab.hasan1303@gmail.com",
-            "souravsarker.2083@gmail.com"
+            "saadtahmid1890@gmail.com",
+            "souravsarker.2083@gmail.com",
+            "wasic.alavi.sadmam@gmail.com"
         ]
     },
     {
         "team_name": "Team TARS",
         "emails": [
-            "abidmahsaf@gmail.com",
-            "shadmansami3s@gmail.com",
+            "raisavante@gmail.com",
             "fajrinthuja20@gmail.com",
-            "raisavante@gmail.com"
+            "shadmansami3s@gmail.com",
+            "abidmahsaf@gmail.com"
         ]
     },
     {
         "team_name": "Kemne_Kore",
         "emails": [
+            "abirlucario02@gmail.com",
             "kazimdraiyan2006@gmail.com",
-            "kamrulhasan59246@gmail.com",
-            "abirlucario02@gmail.com"
+            "kamrulhasan59246@gmail.com"
         ]
     },
     {
         "team_name": "North-309",
         "emails": [
+            "khan10naveed@gmail.com",
             "abdulazizbinabid@gmail.com",
             "rahat.cuetcse22@gmail.com",
-            "u2204021@student.cuet.ac.bd",
-            "khan10naveed@gmail.com"
+            "u2204021@student.cuet.ac.bd"
         ]
     },
     {
         "team_name": "Apocalypse",
         "emails": [
-            "fardinshaikh21st@gmail.com",
             "diprodhar@gmail.com",
-            "ronidatta100@gmail.com"
+            "ronidatta100@gmail.com",
+            "fardinshaikh21st@gmail.com"
         ]
     },
     {
         "team_name": "404 Model Not Found",
         "emails": [
-            "sk.ifti2105@gmail.com",
+            "azmainapro01@gmail.com",
             "deysatak2@gmail.com",
-            "azmainapro01@gmail.com"
+            "sk.ifti2105@gmail.com"
         ]
     },
     {
         "team_name": "PookieSprinters",
         "emails": [
             "farhanishraq777@gmail.com",
-            "tamimrayeed4@gmail.com",
-            "saminabdullah27122004@gmail.com"
+            "saminabdullah27122004@gmail.com",
+            "tamimrayeed4@gmail.com"
         ]
     },
     {
         "team_name": "AntonyTheGoat",
         "emails": [
+            "nakibarman17@gmail.com",
             "sahad0056@gmail.com",
-            "iftekhar.mahi1@gmail.com",
             "mdmehedihasanmim2022@gmal.com",
-            "nakibarman17@gmail.com"
+            "iftekhar.mahi1@gmail.com"
         ]
     },
     {
         "team_name": "Better_Call_Us",
         "emails": [
-            "tarekahmad484@gmail.com",
+            "ibnulmansib@gmail.com",
             "mbillah.cse.sust20@gmail.com",
             "n45islam@gmail.com",
-            "ibnulmansib@gmail.com"
+            "tarekahmad484@gmail.com"
         ]
     },
     {
@@ -514,35 +527,35 @@
     {
         "team_name": "BracU_KiloFlight",
         "emails": [
-            "nihad.hasan.niloy@g.bracu.ac.bd",
-            "ayhanarashtasin@gmail.com",
             "ishrak.hamim.mahi@gmail.com",
-            "mrinu45@gmail.com"
+            "ayhanarashtasin@gmail.com",
+            "mrinu45@gmail.com",
+            "nihad.hasan.niloy@g.bracu.ac.bd"
         ]
     },
     {
         "team_name": "823_OLT",
         "emails": [
-            "u2004023@student.cuet.ac.bd",
-            "u2004008@student.cuet.ac.bd"
+            "u2004008@student.cuet.ac.bd",
+            "u2004023@student.cuet.ac.bd"
         ]
     },
     {
         "team_name": "লজিক_নাই_সাহস_আছে",
         "emails": [
-            "picowf@gmail.com",
-            "pauljunak@gmail.com",
+            "joyshib2001@gmail.com",
             "joyoshreesaha0806@gmail.com",
-            "joyshib2001@gmail.com"
+            "pauljunak@gmail.com",
+            "picowf@gmail.com"
         ]
     },
     {
         "team_name": "ABCSprinters",
         "emails": [
+            "2205014@ugrad.cse.buet.ac.bd",
             "rawnakat12@gmail.com",
             "tokysami896@gmail.com",
-            "farhansadik71883@gmail.com",
-            "2205014@ugrad.cse.buet.ac.bd"
+            "farhansadik71883@gmail.com"
         ]
     },
     {
@@ -554,19 +567,19 @@
     {
         "team_name": "Initial D",
         "emails": [
-            "sazzad.tahsif@gmail.com",
             "tahsinuljubair@gmail.com",
-            "yaamlikh04@gmail.com",
-            "abdmrdhali@gmail.com"
+            "sazzad.tahsif@gmail.com",
+            "abdmrdhali@gmail.com",
+            "yaamlikh04@gmail.com"
         ]
     },
     {
         "team_name": "Cherimoya Circle",
         "emails": [
-            "anindyabiswas1729@gmail.com",
+            "proshanta389@gmail.com",
             "siddhartha.hrishit@gmail.com",
-            "kumarsanjoy.shuvo@gmail.com",
-            "proshanta389@gmail.com"
+            "anindyabiswas1729@gmail.com",
+            "kumarsanjoy.shuvo@gmail.com"
         ]
     },
     {
@@ -581,96 +594,96 @@
     {
         "team_name": "Team BackProp",
         "emails": [
-            "md.ajwadhossain@gmail.com",
+            "tasnimfariha505@gmail.com",
             "turjatalukder14@gmail.com",
             "sayedarahmanananna@gmail.com",
-            "tasnimfariha505@gmail.com"
+            "md.ajwadhossain@gmail.com"
         ]
     },
     {
         "team_name": "Newbies",
         "emails": [
-            "sakibhasan12116071@gmail.com",
             "sudipsaha00002@gmail.com",
             "mdshaidurrahmanpranto@gmail.com",
-            "mdyousufniaz@gmail.com"
+            "mdyousufniaz@gmail.com",
+            "sakibhasan12116071@gmail.com"
         ]
     },
     {
         "team_name": "BUET AIR",
         "emails": [
-            "2305098@ugrad.cse.buet.ac.bd",
             "2405080@ugrad.cse.buet.ac.bd",
             "2305084@ugrad.cse.buet.ac.bd",
+            "2305098@ugrad.cse.buet.ac.bd",
             "2305095@ugrad.cse.buet.ac.bd"
         ]
     },
     {
         "team_name": "Barakah_Brigade",
         "emails": [
+            "mohyminrazin@iut-dhaka.edu",
             "azmainadeeb@gmail.com",
-            "rafsantaaseen42@gmail.com",
-            "mohyminrazin@iut-dhaka.edu"
+            "rafsantaaseen42@gmail.com"
         ]
     },
     {
         "team_name": "Villagers",
         "emails": [
-            "sanjid9657@gmail.com",
             "risalatlabib@gmail.com",
-            "ahmfuad01@yahoo.com",
-            "bayazid741854@gmail.com"
+            "sanjid9657@gmail.com",
+            "bayazid741854@gmail.com",
+            "ahmfuad01@yahoo.com"
         ]
     },
     {
         "team_name": "BUET_AstroBits",
         "emails": [
-            "imtiazrahman2271@gmail.com",
             "priomrh01@gmail.com",
-            "rakibulroki2@gmail.com"
+            "rakibulroki2@gmail.com",
+            "imtiazrahman2271@gmail.com"
         ]
     },
     {
         "team_name": "Thunderbolt",
         "emails": [
-            "arrounak24@gmail.com",
-            "shafi.ahnaf3412@gmail.com",
+            "webnahianalif@gmail.com",
             "tahsinahmadsadik@gmail.com",
-            "webnahianalif@gmail.com"
+            "arrounak24@gmail.com",
+            "shafi.ahnaf3412@gmail.com"
         ]
     },
     {
         "team_name": "DL_pari_na",
         "emails": [
             "bishnudas1315@gmail.com",
-            "mdpavel6400@gmail.com",
+            "paponbhwomick2003@gmail.com",
             "sohanrgc12@gmail.com",
-            "paponbhwomick2003@gmail.com"
+            "mdpavel6400@gmail.com"
         ]
     },
     {
         "team_name": "Gob_gang",
         "emails": [
-            "arifularif1267@gmail.com",
-            "hamid.abrar.khan@gmail.com",
             "yasinpollob367@gmail.com",
-            "sajidashraf098@gmail.com"
+            "sajidashraf098@gmail.com",
+            "hamid.abrar.khan@gmail.com",
+            "arifularif1267@gmail.com"
         ]
     },
     {
         "team_name": "DL_Brothers",
         "emails": [
-            "thisisnogom@gmail.com",
+            "rayhansikder554@gmail.com",
             "royccsgopal49@gmail.com",
-            "rafindc2020@gmail.com",
-            "rayhansikder554@gmail.com"
+            "thisisnogom@gmail.com",
+            "rafindc2020@gmail.com"
         ]
     },
     {
         "team_name": "KichuPariNa",
         "emails": [
-            "shafitanvir31@gmail.com",
             "aktaruzzamanmukdho2002@gmail.com",
+            "shafitanvir31@gmail.com",
             "mezba8053@gmail.com",
             "fahimishtiak2001@gmail.com"
         ]
@@ -678,44 +691,44 @@
     {
         "team_name": "OBLIVION",
         "emails": [
+            "fardinfuad24@gmail.com",
             "raihanulkobir23@gmail.com",
             "arrahib05@gmail.com",
-            "hossaintohubar@gmail.com",
-            "fardinfuad24@gmail.com"
+            "hossaintohubar@gmail.com"
         ]
     },
     {
         "team_name": "Team inverse",
         "emails": [
-            "sadianaimahoque17@gmail.com",
-            "farihaforhad138@gmail.com",
             "abirabdullah3491@gmail.com",
-            "anikatasnim1001@gmail.com"
+            "farihaforhad138@gmail.com",
+            "anikatasnim1001@gmail.com",
+            "sadianaimahoque17@gmail.com"
         ]
     },
     {
         "team_name": "BLUe",
         "emails": [
-            "soaibhossainefty16@gmail.com",
-            "ahmedsajidhashan@gmail.com",
             "Sarowaralam2005@gmail.com",
+            "ahmedsajidhashan@gmail.com",
+            "soaibhossainefty16@gmail.com",
             "altairahad001@gmail.com"
         ]
     },
     {
         "team_name": "underfitting",
         "emails": [
-            "achy12255@gmail.com",
+            "anikamorshed4434@gmail.com",
             "digantasahatirtha@gmail.com",
-            "anikamorshed4434@gmail.com"
+            "achy12255@gmail.com"
         ]
     },
     {
         "team_name": "TupiWala",
         "emails": [
-            "mustafizur.codes@gmail.com",
             "nafizahmed000@gmail.com",
             "dewanzisan249@gmail.com",
+            "mustafizur.codes@gmail.com",
             "oitijya2002@gmail.com"
         ]
     },
@@ -724,35 +737,35 @@
         "emails": [
             "chishti055@gmail.con",
             "atikul.munna@northsouth.edu",
-            "mallick.momtaj@northsouth.edu",
-            "souvik.pramanik@northsouth.edu"
+            "souvik.pramanik@northsouth.edu",
+            "mallick.momtaj@northsouth.edu"
         ]
     },
     {
         "team_name": "Audacity_Is_All_You_Need",
         "emails": [
-            "kmfahim314@gmail.com",
+            "kdbazizul@gmail.com",
             "imrosezahin@gmail.com",
-            "riyadunnabi@gmail.com",
-            "kdbazizul@gmail.com"
+            "kmfahim314@gmail.com",
+            "riyadunnabi@gmail.com"
         ]
     },
     {
         "team_name": "Team_nai",
         "emails": [
-            "ehsassami2004@gmail.com",
             "perth877@gmail.com",
             "rezoanhoq134@gmail.com",
-            "irfantahsin2@gmail.com"
+            "irfantahsin2@gmail.com",
+            "ehsassami2004@gmail.com"
         ]
     },
     {
         "team_name": " Kasukabe Defence Force",
         "emails": [
             "u2004040@student.cuet.ac.bd",
+            "u2004022@student.cuet.ac.bd",
             "u2004119@student.cuet.ac.bd",
-            "u2004065@student.cuet.ac.bd",
-            "u2004022@student.cuet.ac.bd"
+            "u2004065@student.cuet.ac.bd"
         ]
     },
     {
@@ -760,39 +773,39 @@
         "emails": [
             "asaduzzamanrokon11@gmail.com",
             "ksshoron@gmail.com",
-            "abrarjahin471@gmail.com",
-            "jannatuljisan5@gmail.com"
+            "jannatuljisan5@gmail.com",
+            "abrarjahin471@gmail.com"
         ]
     },
     {
         "team_name": "BURAQ",
         "emails": [
+            "tamjidhf@gmail.com",
             "morakibnashit@gmail.com",
-            "safiussifat@gmail.com",
             "kaifkhan.ruet@gmail.com",
-            "tamjidhf@gmail.com"
+            "safiussifat@gmail.com"
         ]
     },
     {
         "team_name": "Apple Juice",
         "emails": [
-            "humairaalishuvra@gmail.com",
-            "muttakinbgd@gmail.com"
+            "muttakinbgd@gmail.com",
+            "humairaalishuvra@gmail.com"
         ]
     },
     {
         "team_name": "Idempotent ",
         "emails": [
-            "tanvir2800377@gmail.com",
             "biswasakul287@gmail.com",
-            "riyad176255@gmail.com"
+            "riyad176255@gmail.com",
+            "tanvir2800377@gmail.com"
         ]
     },
     {
         "team_name": "Train, Validate, Cry",
         "emails": [
-            "shahriaralkabir373446@gmail.com",
             "rabiulawaljihad2189@gmail.com",
+            "shahriaralkabir373446@gmail.com",
             "shadmanabid87@gmail.com",
             "abdullahalmahmud325@gmail.com"
         ]
@@ -801,9 +814,9 @@
         "team_name": "Drakehounds",
         "emails": [
             "sumaiyaahmed999@gmail.com",
+            "nafisfuad21@iut-dhaka.edu",
             "ahmedalfey@iut-dhaka.edu",
-            "nayeemfardin@iut-dhaka.edu",
-            "nafisfuad21@iut-dhaka.edu"
+            "nayeemfardin@iut-dhaka.edu"
         ]
     },
     {
@@ -816,71 +829,71 @@
     {
         "team_name": "ML_Forge",
         "emails": [
+            "u2004081@student.cuet.ac.bd",
             "u2004002@student.cuet.ac.bd",
-            "u2004003@student.cuet.ac.bd",
             "u2004027@student.cuet.ac.bd",
-            "u2004081@student.cuet.ac.bd"
+            "u2004003@student.cuet.ac.bd"
         ]
     },
     {
         "team_name": "BUET_Exponentiation",
         "emails": [
-            "tahjibkhan31@gmail.com",
             "diinmohammads@gmail.com",
-            "sefatbm@gmail.com",
-            "joysabbir007@gmail.com"
+            "joysabbir007@gmail.com",
+            "tahjibkhan31@gmail.com",
+            "sefatbm@gmail.com"
         ]
     },
     {
         "team_name": "Quintessence Minus Infinity ",
         "emails": [
-            "romanakhanom.02@gmail.com",
-            "mdsanjidt@gmail.com",
             "yasinarafat90250@gmail.com",
-            "sabbirahmed12546@gmail.com"
+            "sabbirahmed12546@gmail.com",
+            "romanakhanom.02@gmail.com",
+            "mdsanjidt@gmail.com"
         ]
     },
     {
         "team_name": "Backprop bandits",
         "emails": [
-            "meherujannat@gmail.com",
-            "diptosaha.kst@gmail.com",
+            "mofazzalhossen874@gmail.com",
             "choyanbaruakuetcse@gmail.com",
-            "mofazzalhossen874@gmail.com"
+            "diptosaha.kst@gmail.com",
+            "meherujannat@gmail.com"
         ]
     },
     {
         "team_name": "Logorhythms",
         "emails": [
-            "mislam2330104@bsds.uiu.ac.bd",
-            "anafiz2330006@bsds.uiu.ac.bd"
+            "anafiz2330006@bsds.uiu.ac.bd",
+            "mislam2330104@bsds.uiu.ac.bd"
         ]
     },
     {
         "team_name": "DeepWhaaat",
         "emails": [
+            "shaque2430692@bscse.uiu.ac.bd",
             "radiyahfaten@gmail.com",
             "samanta.u.oishi@gmail.com",
-            "theshahidkhan.2004@gmail.com",
-            "shaque2430692@bscse.uiu.ac.bd"
+            "theshahidkhan.2004@gmail.com"
         ]
     },
     {
         "team_name": "zero_shot",
         "emails": [
-            "mehemudazad.km@gmail.com",
-            "shams.hossain.simanto@gmail.com",
             "debnath.aritra@gmail.com",
-            "mkhanshovon@gmail.com"
+            "mkhanshovon@gmail.com",
+            "mehemudazad.km@gmail.com",
+            "shams.hossain.simanto@gmail.com"
         ]
     },
     {
         "team_name": "DudhVat",
         "emails": [
             "aanas2330094@bsds.uiu.ac.bd",
+            "mahmed2330101@bsds.uiu.ac.bd",
             "bintekarimtasfiya@gmail.com",
-            "mdmainulislammahin19@gmail.com",
-            "mahmed2330101@bsds.uiu.ac.bd"
+            "mdmainulislammahin19@gmail.com"
         ]
     },
     {
@@ -895,25 +908,25 @@
         "emails": [
             "arafatrahman219@gmail.com",
             "faisalsheikh1279@gmail.com",
-            "tahmidulislamomi09@gmail.com",
-            "naymul504@gmail.com"
+            "naymul504@gmail.com",
+            "tahmidulislamomi09@gmail.com"
         ]
     },
     {
         "team_name": "CynapX",
         "emails": [
+            "stanjeed@gmail.com",
             "zaheenraian@gmail.com",
             "ruwad45678@gmail.com",
-            "stanjeed@gmail.com",
             "sakib519272@gmail.com"
         ]
     },
     {
         "team_name": "Novice",
         "emails": [
+            "arkadcuet@gmail.com",
             "angkan589@gmail.com",
             "ayanb0310@gmail.com",
-            "arkadcuet@gmail.com",
             "357anindya@gmail.com"
         ]
     },
@@ -922,75 +935,75 @@
         "emails": [
             "nazifafairuzzuthi@gmail.com",
             "tanmoym047@gmail.com",
-            "rafio.work.2002@gmail.com",
-            "eshafarzana666@gmail.com"
+            "eshafarzana666@gmail.com",
+            "rafio.work.2002@gmail.com"
         ]
     },
     {
         "team_name": "We, Robots",
         "emails": [
-            "farhan.bme027@gmail.com",
-            "raiyanrohit10@gmail.com"
+            "raiyanrohit10@gmail.com",
+            "farhan.bme027@gmail.com"
         ]
     },
     {
         "team_name": "Trallalero Trallala",
         "emails": [
             "shahrin@iut-dhaka.edu",
-            "nafisa.vns56@gmail.com",
             "rafidahmed816@gmail.com",
-            "nirjon6482@gmail.com"
+            "nirjon6482@gmail.com",
+            "nafisa.vns56@gmail.com"
         ]
     },
     {
         "team_name": "RUET_Noise2data",
         "emails": [
             "tajshuvo75@gmail.com",
+            "abird8398@gmail.com",
             "jmmufti2001@gmail.com",
-            "rashedul16801@gmail.com",
-            "abird8398@gmail.com"
+            "rashedul16801@gmail.com"
         ]
     },
     {
         "team_name": "Data_Drifters",
         "emails": [
             "tahsinxdev@gmail.com",
-            "mahinreza89@gmail.com",
-            "siratularman2@gmail.com"
+            "siratularman2@gmail.com",
+            "mahinreza89@gmail.com"
         ]
     },
     {
         "team_name": "Edith",
         "emails": [
-            "2107176@ugrad.cse.buet.ac.bd",
             "2105123@ugrad.cse.buet.ac.bd",
-            "2105161@ugrad.cse.buet.ac.bd"
+            "2105161@ugrad.cse.buet.ac.bd",
+            "2107176@ugrad.cse.buet.ac.bd"
         ]
     },
     {
         "team_name": "Late Submission",
         "emails": [
-            "abdulmuqtadir@iut-dhaka.edu",
             "sakibahmed21@iut-dhaka.edu",
-            "akibhaider@iut-dhaka.edu",
-            "rubaeeyat@iut-dhaka.edu"
+            "rubaeeyat@iut-dhaka.edu",
+            "abdulmuqtadir@iut-dhaka.edu",
+            "akibhaider@iut-dhaka.edu"
         ]
     },
     {
         "team_name": "Sprinters",
         "emails": [
-            "fahimmuhtamim@gmail.com",
             "abrarryan17@gmail.com",
-            "fahim7.sajid.1985@gmail.com",
-            "zowadzareer1121@gmail.com"
+            "zowadzareer1121@gmail.com",
+            "fahimmuhtamim@gmail.com",
+            "fahim7.sajid.1985@gmail.com"
         ]
     },
     {
         "team_name": "NoobMaster",
         "emails": [
-            "shafeehasan001@gmail.com",
+            "hillol.chakma19@gmail.com",
             "intesartahmidalam@gmail.com",
-            "hillol.chakma19@gmail.com"
+            "shafeehasan001@gmail.com"
         ]
     },
     {
@@ -998,44 +1011,44 @@
         "emails": [
             "tarit1243@gmail.com",
             "hadis.sust@gmail.com",
-            "mohammadrubayet007@gmail.com",
-            "taposhg522@gmail.com"
+            "taposhg522@gmail.com",
+            "mohammadrubayet007@gmail.com"
         ]
     },
     {
         "team_name": "Ali DADA",
         "emails": [
+            "ahsan2007030@stud.kuet.ac.bd",
             "mahmud2007059@stud.kuet.ac.bd",
-            "lihazi2007038@stud.kuet.ac.bd",
             "chowdhury2007057@stud.kuet.ac.bd",
-            "ahsan2007030@stud.kuet.ac.bd"
+            "lihazi2007038@stud.kuet.ac.bd"
         ]
     },
     {
         "team_name": "Neural SUST",
         "emails": [
-            "ridoybaidya2@gmail.com",
             "maishaanika17@gmail.com",
+            "priyavokto051@gmail.com",
             "priomchakraborty73@gmail.com",
-            "priyavokto051@gmail.com"
+            "ridoybaidya2@gmail.com"
         ]
     },
     {
         "team_name": "Petai Porata",
         "emails": [
             "ttawhid401@gmail.com",
-            "saifahmedshejan@gmail.com",
             "sarwad015@gmail.com",
-            "sorupr5@gmail.com"
+            "sorupr5@gmail.com",
+            "saifahmedshejan@gmail.com"
         ]
     },
     {
         "team_name": "Gang_of_Four",
         "emails": [
+            "ziadul87@gmail.com",
             "rezwanahammd68@gmail.com",
-            "hasanideal2002@gmail.com",
             "preom.cc.bd@gmail.com",
-            "ziadul87@gmail.com"
+            "hasanideal2002@gmail.com"
         ]
     },
     {
@@ -1048,8 +1061,8 @@
     {
         "team_name": "Random_state != 42",
         "emails": [
-            "nokibulofficial18@gmail.com",
-            "imhasib777@gmail.com"
+            "imhasib777@gmail.com",
+            "nokibulofficial18@gmail.com"
         ]
     },
     {
@@ -1061,8 +1074,8 @@
     {
         "team_name": "BUET_Knights",
         "emails": [
-            "diprairham3223@gmail.com",
             "anabil.das2003@gmail.com",
+            "diprairham3223@gmail.com",
             "anikguptatarun@gmail.com",
             "mdfaabrar257@gmail.com"
         ]
@@ -1070,54 +1083,54 @@
     {
         "team_name": "IUT_codeKomVibeBeshi",
         "emails": [
-            "azmi@iut-dhaka.edu",
             "rahinur2004@gmail.com",
             "ms2a.arian@gmail.com",
+            "azmi@iut-dhaka.edu",
             "rahmansazid2@gmail.com"
         ]
     },
     {
         "team_name": "deep_mara32",
         "emails": [
-            "himelsutrodhar667@gmail.com",
-            "2105062@ugrad.cse.buet.ac.bd",
             "2105073@ugrad.cse.buet.ac.bd",
+            "himelsutrodhar667@gmail.com",
+            "2106059@ugrad.eee.buet.ac.bd",
+            "2105062@ugrad.cse.buet.ac.bd",
             "dhrubokishore23@gmail.com",
-            "2105090@ugrad.cse.buet.ac.bd",
-            "2106059@ugrad.eee.buet.ac.bd"
+            "2105090@ugrad.cse.buet.ac.bd"
         ]
     },
     {
         "team_name": "KUET_TensorBit",
         "emails": [
+            "efty17.hasan@gmail.com",
             "tasrif701@gmail.com",
-            "tanzirmannanturzo@gmail.com",
             "pi.faysal.mahmud@gmail.com",
-            "efty17.hasan@gmail.com"
+            "tanzirmannanturzo@gmail.com"
         ]
     },
     {
         "team_name": "Formula Two",
         "emails": [
+            "skt104.shujon@gmail.com",
             "nayeem.code@gmail.com",
-            "mdjahidhasanjim277@gmail.com",
-            "skt104.shujon@gmail.com"
+            "mdjahidhasanjim277@gmail.com"
         ]
     },
     {
         "team_name": "Sky",
         "emails": [
             "debashriroy2003@gmail.com",
-            "2105179@ugrad.cse.buet.ac.bd",
-            "tasnimsadia013@gmail.com"
+            "tasnimsadia013@gmail.com",
+            "2105179@ugrad.cse.buet.ac.bd"
         ]
     },
     {
         "team_name": "Team_Technologia",
         "emails": [
-            "tech.sisayeed@gmail.com",
+            "2173hasibul.hossain@gmail.com",
             "hameemhossain2@gmail.com",
-            "2173hasibul.hossain@gmail.com"
+            "tech.sisayeed@gmail.com"
         ]
     },
     {
@@ -1125,61 +1138,115 @@
         "emails": [
             "ahmedshafin@iut-dhaka.edu",
             "afraanika21@iut-dhaka.edu",
-            "tanjilhasan@iut-dhaka.edu",
-            "rihila@iut-dhaka.edu"
+            "rihila@iut-dhaka.edu",
+            "tanjilhasan@iut-dhaka.edu"
         ]
     },
     {
         "team_name": "Arsenal",
         "emails": [
-            "s.d.soumyadeepsarker@gmail.com",
-            "rmrafid64@gmail.com",
             "2205132@ugrad.cse.buet.ac.bd",
-            "fatinfuad2002@gmail.com"
+            "rmrafid64@gmail.com",
+            "fatinfuad2002@gmail.com",
+            "s.d.soumyadeepsarker@gmail.com"
         ]
     },
     {
         "team_name": "khokon_503",
         "emails": [
+            "saidurrahman@iut-dhaka.edu",
             "maroofahmed@iut-dhaka.edu",
-            "akibzaoad@iut-dhaka.edu",
             "fatinnurrafi@gmail.com",
-            "saidurrahman@iut-dhaka.edu"
+            "akibzaoad@iut-dhaka.edu"
         ]
     },
     {
         "team_name": "Shaada Golap",
         "emails": [
+            "saifsafayat@gmail.com",
             "tonmoymirza.007@gmail.com",
-            "mehedi.72.khan@gmail.com",
-            "saifsafayat@gmail.com"
+            "mehedi.72.khan@gmail.com"
         ]
     },
     {
         "team_name": "Hotasha_ebar_DL_korbe",
         "emails": [
-            "tanvirzihad1988@gmail.com",
             "tahmidhossain690@gmail.com",
+            "shafin1206@gmail.com",
             "ashraful7525@gmail.com",
-            "shafin1206@gmail.com"
+            "tanvirzihad1988@gmail.com"
         ]
     },
     {
         "team_name": "Shallow Forgetting",
         "emails": [
-            "atgraiyan02@gmail.com",
+            "sakif.raiyan128@gmail.com",
             "sayaadmuzahid@gmail.com",
-            "omarabdurrazzaque@gmail.com",
-            "sakif.raiyan128@gmail.com"
+            "atgraiyan02@gmail.com",
+            "omarabdurrazzaque@gmail.com"
         ]
     },
     {
         "team_name": "BITWISEMINDS",
         "emails": [
-            "sazzad.adib@northsouth.edu",
             "chakraborty.amit@northsouth.edu",
             "mohammed.aman.nsu@gmail.com",
+            "sazzad.adib@northsouth.edu",
             "samiulbasirbhuiyan1234@gmail.com"
+        ]
+    },
+    {
+        "team_name": "Team BAYMAX",
+        "emails": [
+            "masnun.nuha03@gmail.com",
+            "tanjeeb1909@gmail.com",
+            "nabilanewaz@iut-dhaka.edu"
+        ]
+    },
+    {
+        "team_name": "blue+yellow=magenta",
+        "emails": [
+            "abubakorsiddiquedhrubo@gmail.com",
+            "jannatulrakhi371@gmail.com",
+            "mehreenhossain@iut-dhaka.edu",
+            "nowshin@iut-dhaka.edu"
+        ]
+    },
+    {
+        "team_name": "darksoul",
+        "emails": [
+            "alamroman.605@gmail.com",
+            "mirazul687@gmail.com"
+        ]
+    },
+    {
+        "team_name": "BUET_Mavericks",
+        "emails": [
+            "abhijnanpodder@gmail.com",
+            "proteekrosul@gmail.com",
+            "nafismahmud021@gmail.com",
+            "iamfreemessageme@gmail.com"
+        ]
+    },
+    {
+        "team_name": "DataHunters",
+        "emails": [
+            "mubinislam05@gmail.com",
+            "hmazrof@gmail.com",
+            "shifathasangns@gmail.com",
+            "mailbox.mugdha@gmail.com"
+        ]
+    },
+    {
+        "team_name": "Ekai Eksho",
+        "emails": [
+            "shahriarsadik@gmail.com"
+        ]
+    },
+    {
+        "team_name": "Team OneManArmy",
+        "emails": [
+            "shafinnafiullah@gmail.com"
         ]
     }
 ]
